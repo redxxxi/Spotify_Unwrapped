@@ -1,0 +1,10 @@
+﻿artists,daily_rank,daily_movement,weekly_movement,country,snapshot_date,popularity,is_explicit,duration_ms,album_name,album_release_date,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature
+"Lady Gaga, Bruno Mars",1,0,0,,20 03 2025,84,FALSE,251667,MAYHEM,7 03 2025,0.519,0.601,6,-7.727,0,0.0317,0.289,0,0.126,0.498,157.964,3
+Doechii,2,0,48,,20 03 2025,77,TRUE,249302,Alligator Bites Never Heal (Extended),14 03 2025,0.807,0.596,0,-6.818,1,0.0394,0.321,0.000294,0.105,0.881,129.013,4
+"ROSÃ‰, Bruno Mars",3,0,0,,20 03 2025,91,FALSE,169917,rosie,6 12 2024,0.777,0.783,0,-4.477,0,0.26,0.0283,0,0.355,0.939,149.027,4
+Billie Eilish,4,1,1,,20 03 2025,98,FALSE,210373,HIT ME HARD AND SOFT,17 05 2024,0.747,0.507,2,-10.171,1,0.0358,0.2,0.0608,0.117,0.438,104.978,4
+Playboi Carti,5,-1,45,,20 03 2025,89,TRUE,183928,MUSIC,14 03 2025,0.689,0.36,1,-7.029,1,0.0564,0.00665,6.11E-05,0.119,0.0599,154.009,4
+"Kendrick Lamar, SZA",6,0,-2,,20 03 2025,93,FALSE,177598,GNX,21 11 2024,0.707,0.575,2,-7.546,1,0.125,0.251,0,0.248,0.576,138.008,4
+Bad Bunny,7,2,1,,20 03 2025,97,TRUE,237117,DeBÃ TiRAR MÃ¡S FOToS,5 01 2025,0.625,0.131,7,-27.405,0,0.0717,0.177,0.218,0.0807,0.032,136.02,4
+"Playboi Carti, The Weeknd",8,-1,42,,20 03 2025,87,TRUE,209680,MUSIC,14 03 2025,0.72,0.665,8,-4.431,1,0.0325,0.0583,0,0.213,0.279,132.991,4
+JENNIE,9,-1,-2,,20 03 2025,90,TRUE,123517,Ruby,7 03 2025,0.811,0.743,10,-5.321,0,0.0611,0.281,0.00671,0.0868,0.815,130.019,4
